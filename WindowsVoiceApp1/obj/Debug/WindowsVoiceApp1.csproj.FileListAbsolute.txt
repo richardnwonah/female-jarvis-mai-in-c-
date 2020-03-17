@@ -1,0 +1,67 @@
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.exe.config
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.exe
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.pdb
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csprojResolveAssemblyReference.cache
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.Properties.Resources.resources
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.GenerateResource.Cache
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.exe
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.pdb
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.ResolveComReference.cache
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.KeyHandle.resources
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.exe.config
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.exe
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.pdb
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.KeyHandle.resources
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.exe
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.pdb
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.KeyHandle.resources
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.exe.config
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.exe.manifest
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.application
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.exe
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.pdb
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.exe.manifest
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.application
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.exe
+C:\Users\HP\Desktop\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.pdb
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.KeyHandle.resources
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.exe
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.pdb
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.exe.config
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.exe.manifest
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.application
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.exe
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\bin\Debug\mia ai.pdb
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.exe.manifest
+C:\Users\HP\Desktop\files\old\JARVIS-Voice-Recognition-master - Copy\WindowsVoiceApp1\obj\Debug\mia ai.application

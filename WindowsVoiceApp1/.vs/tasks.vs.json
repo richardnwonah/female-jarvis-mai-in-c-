@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-WindowsVoiceApp1",
+      "appliesTo": "WindowsVoiceApp1/WindowsVoiceApp1.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

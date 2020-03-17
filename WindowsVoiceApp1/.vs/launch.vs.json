@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "WindowsVoiceApp1\\Form1.cs",
+      "name": "Form1.cs"
+    }
+  ]
+}
